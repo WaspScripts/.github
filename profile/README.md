@@ -24,7 +24,7 @@ This project board tracks work across the following WaspScripts repositories:
 - **🔧 [WaspLib](https://github.com/WaspScripts/WaspLib)** - Main Simba 2.0 library for OSRS botting
 - **📚 [wasp-docs](https://github.com/WaspScripts/wasp-docs)** - Documentation and guides  
 - **🖥️ [Simba](https://github.com/WaspScripts/Simba)** - Task automation program
-- **⌨️ [wasp-input](https://github.com/WaspScripts/wasp-input)** - Fake input tool
+- **⌨️ [wasp-plugins](https://github.com/WaspScripts/wasp-plugins)** - Plugins required for WaspLib
 
 ## 🤝 How to Contribute
 
